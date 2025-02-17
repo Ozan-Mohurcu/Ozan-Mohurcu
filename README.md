@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozan-mohurcu&label=Profile%20views&color=0e75b6&style=flat" alt="ozan-mohurcu" /> </p>
 
-<p align="center"><a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=Samarth4023&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
+<p align="center"><a href="https://github.com/Ozan-Mohurcu"><img src="https://github-trophies.vercel.app/?username=Ozan-Mohurcu&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
+
 
 
 - 👋 Hello, I'm ***Ozan***
