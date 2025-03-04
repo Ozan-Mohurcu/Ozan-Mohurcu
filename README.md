@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://rishavchanda.io">
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_uEIAcTgpuOE2Xv5o_2XHBw73bUlJxvnQhcORE_fh5M" width="600">
+    </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">A passionate Data Analist from Turkey</h3>
 
@@ -5,13 +11,14 @@
 
 <p align="center"><a href="https://github.com/Ozan-Mohurcu"><img src="https://github-trophies.vercel.app/?username=Ozan-Mohurcu&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
 
-
-
-- 👋 Hello, I'm ***Ozan***
+- 👋 Hello, I'm ***Ozan***                                       
 - 👀 I'm interested in TECHNOLOGY, I'm doing a **Masters**.
 - 🌱 I'm currently learning Artificial Intelligence / Machine Learning
 - 🏅 Kaggle Notebook Grandmaster
 - 📫 How to reach me -- DMs below 👇
+
+
+
 
 
 ## Social Media (Click Logos😊)
@@ -59,17 +66,17 @@
 ## Frameworks ❤️
 | Pandas | Numpy | Matplotlib | Seaborn | Power BI | Tableau |
 |-------|--------|------------|---------|----------|---------|
-| <p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="45" height="45"/> </a></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="65" height="65"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="mpl" title="Matplotlib" width="40" height="40"/></p> | <p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="45" height="45"/> </a></p> | <p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" alt="Power BI" width="55" height="55"/></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/></p>|
+| <p align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="45" height="45"/> </a></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="65" height="65"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="mpl" title="Matplotlib" width="40" height="40"/></p> | <p align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="45" height="45"/> </a></p> | <p align="center"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" title="Power BI" alt="Power BI" width="55" height="55"/></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/></p>|
 
 ## Data Manipulation 🛠️
 | Conda | Jupyter | PostgreSQL | Power BI | Tableau |
 |-------|---------|------------|----------|---------|
-|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/075f93ad-18ac-4aad-8f2c-c8136a71038b" title="Jupyter" width="75" height="75"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/></p>|<p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" alt="Power BI" width="55" height="55"/></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/></p>|
+|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></p>|<p align="center"><img src="https://github.com/Samarth4023/Samarth4023/assets/128507779/075f93ad-18ac-4aad-8f2c-c8136a71038b" title="Jupyter" width="75" height="75"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/></p>|<p align="center"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" title="Power BI" alt="Power BI" width="55" height="55"/></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/></p>|
 
 ## IDE's 📝
 | Visual Studio | Anaconda | Google Colab | Power BI | Tableau |
 |--------------|----------|--------------|----------|---------|
-|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio" width="35" height="35"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="55" height="55"/></p>|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" width="45" height="45"/></p>|<p align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" width="55" height="55"/></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="55" height="55"/></p>|
+|<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio" width="35" height="35"/></p>|<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="55" height="55"/></p>|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google Colab" width="45" height="45"/></p>|<p align="center"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" title="Power BI" width="55" height="55"/></p>|<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="55" height="55"/></p>|
 
 
 ## Frontend ☄
