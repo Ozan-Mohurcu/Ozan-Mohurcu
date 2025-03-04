@@ -6,8 +6,10 @@
 
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">A passionate Data Analist from Turkey</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ozan-mohurcu&label=Profile%20views&color=0e75b6&style=flat" alt="ozan-mohurcu" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozan-mohurcu&label=Profile%20views&color=0e75b6&style=flat" alt="ozan-mohurcu" /> </p>
 
 <p align="center"><a href="https://github.com/Ozan-Mohurcu"><img src="https://github-trophies.vercel.app/?username=Ozan-Mohurcu&theme=algolia&margin-w=19&title=Repositories,Commits,MultiLanguage,LongTimeUser,Followers,NewUser&column=6" /></a></p>
 
