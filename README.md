@@ -35,7 +35,7 @@
 - 👋 Hello, I'm ***Ozan***
 - 👀 I'm interested in TECHNOLOGY, doing **Master's Degree**
 - 🏅 **Kaggle Notebook Grandmaster**
-- 💼 Working as a Data Analyst
+- 💼 Working as a Data Scientist
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 - ⚡ Fun fact: Coffee is more important than bugs in data science ☕
 - 📫 How to reach me -- DMs below 👇
