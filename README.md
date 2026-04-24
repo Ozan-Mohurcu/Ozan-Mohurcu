@@ -53,30 +53,40 @@
 ## 🎖️ Kaggle Badges
 
 <div align="center">
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/ca8df136-7280-4fd9-aa1e-ba073d0d41e7" title="Competitor" width="56" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/cd521ed5-aab7-47fa-8c8c-e5b9cb6e141e" title="Novice Competitor" width="54" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/f4c2ef98-104a-442a-8b66-1890d01bc776" title="Code Contributor" width="50" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" title="Submission Streak" width="57" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" title="Python Coder" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/604be16a-94a3-4d3f-a39a-917fd7f885b0" title="Code Uploader" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/abb24199-0204-4863-a99a-62d33b17136e" title="Github Coder" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/7e37b94c-9fa9-4baa-bf22-c7befd3b657e" title="Colab Coder" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/b6dc4d26-6c4a-4bf7-902e-e7794b6ad877" title="Code Tagger" width="53" height="53"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" title="Code Churner" width="54" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/2ed83bc0-ab18-4bcb-9060-319548e64f37" title="Notebook Modeler" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/8d506c94-76f4-4733-86b8-4c28248c2fc9" title="Dataset Builder" width="54" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/be93723d-5213-49b1-b06b-4f1871f7bb2a" title="Dataset Pipeline Builder" width="53" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/4a0ad06e-c9f0-4e1f-8060-96b86947758a" title="Linked Dataset Builder" width="53" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/093498fa-e547-4e99-9b63-4c108a55f3c9" title="Dataset Documenter" width="57" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/5362f321-df69-4863-94f3-4ed2be5cfdcc" title="Dataset Tagger" width="55" height="54"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="53" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/00365d44-cc86-4555-b3f6-7add8b378990" title="Collector" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" title="Bookmarker" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/bde58999-0cc2-4dd3-ab16-8720a8730862" title="Vampire" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/a22e9d4e-9d3e-4a9a-a905-947ea5362724" title="Student" width="55" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Completed Gen AI Intensive Course" width="54" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="54" height="55"/></a>
-  <a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="57" height="55"/></a>
+
+<table>
+<tr>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/ca8df136-7280-4fd9-aa1e-ba073d0d41e7" title="Competitor" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/cd521ed5-aab7-47fa-8c8c-e5b9cb6e141e" title="Novice Competitor" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/f4c2ef98-104a-442a-8b66-1890d01bc776" title="Code Contributor" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/c0fd9362-5662-4204-a506-505435446fe4" title="Submission Streak" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/356f6265-bedc-4899-a0b9-01205c8feeb4" title="Python Coder" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/604be16a-94a3-4d3f-a39a-917fd7f885b0" title="Code Uploader" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/abb24199-0204-4863-a99a-62d33b17136e" title="GitHub Coder" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/7e37b94c-9fa9-4baa-bf22-c7befd3b657e" title="Colab Coder" width="55" height="55"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/b6dc4d26-6c4a-4bf7-902e-e7794b6ad877" title="Code Tagger" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/28161b4d-2190-4956-b502-5364c97d7a2c" title="Code Churner" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/2ed83bc0-ab18-4bcb-9060-319548e64f37" title="Notebook Modeler" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/8d506c94-76f4-4733-86b8-4c28248c2fc9" title="Dataset Builder" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/be93723d-5213-49b1-b06b-4f1871f7bb2a" title="Dataset Pipeline Builder" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/4a0ad06e-c9f0-4e1f-8060-96b86947758a" title="Linked Dataset Builder" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/093498fa-e547-4e99-9b63-4c108a55f3c9" title="Dataset Documenter" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/5362f321-df69-4863-94f3-4ed2be5cfdcc" title="Dataset Tagger" width="55" height="55"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/566496bf-801e-4919-ab62-6e69770d7569" title="Stylish" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/00365d44-cc86-4555-b3f6-7add8b378990" title="Collector" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/485ff7a8-77da-4225-95f2-0de5707c2564" title="Bookmarker" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/bde58999-0cc2-4dd3-ab16-8720a8730862" title="Vampire" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/a22e9d4e-9d3e-4a9a-a905-947ea5362724" title="Student" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/e27ee245-cbaa-4664-ae05-0e135aed67d5" title="Gen AI Intensive Course" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/cdb3691a-942b-4c49-8fd2-1ce9d0fd6044" title="7 Day Login Streak" width="55" height="55"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/analyticaobscura" target="_blank"><img src="https://github.com/user-attachments/assets/007f0147-ce17-4d08-abd1-2da60410e84b" title="30 Day Login Streak" width="55" height="55"/></a></td>
+</tr>
+</table>
+
 </div>
 
 <p align="center">
